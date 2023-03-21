@@ -63,7 +63,9 @@ ul {
   margin: 0 auto;
 }
 /* ------------------------HEADER-------------- */
-
+header {
+  border-bottom: 1px solid #E7E9FC;
+}
 /* Navigation */
 .logo {
   font-family: "Raleway", sans-serif;
@@ -100,6 +102,7 @@ ul {
 .header .container {
   display: flex;
   align-items: center;
+  
 }
 
 .nav-list {
