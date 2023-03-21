@@ -168,6 +168,7 @@ ul {
   color: var(--hero-color);
   letter-spacing: 0.02em;
   width: 496px;
+  margin-bottom: 48px;
 }
 
 .hero-btn {
